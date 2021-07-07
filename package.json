@@ -1,0 +1,26 @@
+{
+  "name": "lp-holder-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-fetch": "^2.6.1",
+    "web3": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmaghanRazaChaudhary/LP-holder-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmaghanRazaChaudhary/LP-holder-list/issues"
+  },
+  "homepage": "https://github.com/ArmaghanRazaChaudhary/LP-holder-list#readme"
+}
