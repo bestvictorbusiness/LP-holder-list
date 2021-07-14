@@ -100,4 +100,4 @@ async function asyncForEach(array, callback) {
 }
 
 
-main("pancakeswap");
+main("uniswap");
