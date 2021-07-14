@@ -1,0 +1,18 @@
+{
+    "pancakeswap":{
+        "socket":"socket URL comes here",
+        "contractAddress":"pancakeswap pair address here",
+        "contractAbi":"",
+        "toBlock":"",
+        "fromBlock":""
+
+    },
+    "uniswap":{
+        "socket":"socket URL comes here",
+        "contractAddress":"pancakeswap pair address here",
+        "contractAbi":"",
+        "toBlock":"",
+        "fromBlock":""
+    }
+
+}
